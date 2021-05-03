@@ -6,14 +6,6 @@ body {
   background-color: rgb(105, 240, 255);
 }
 
-#head {
-  text-align: center;
-  font-size: 150%;
-  font-weight: bold;
-  font-family: Georgia;
-  margin: 30px;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -38,31 +30,6 @@ body {
 
 .App-link {
   color: #61dafb;
-}
-
-.To-Do-Item {
-  margin: 30px;
-  border-width: 3px;
-  border-style: solid;
-  border-color: black;
-  border-radius: 15px;
-  padding: 10px;
-  font-size: 130%;
-  font-style: italic;
-  font-family: Georgia;
-  text-align: center;
-  background-color: white;
-}
-
-.To-Do-Item div {
-  margin: 5px 0px;
-}
-
-.To-Do-Item button {
-  margin-left: 50%;
-  block-size: 50px;
-  font-size: 110%;
-  border-radius: 15px;
 }
 
 @keyframes App-logo-spin {
